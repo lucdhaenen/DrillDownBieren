@@ -1,0 +1,34 @@
+﻿body 
+{    
+}
+
+#labels
+{
+    float:left;
+    width:150px;
+    text-align:right;
+    line-height: 250%;
+}
+
+#detail 
+{
+    float:left;
+    text-align:left;
+    margin-left:25px;
+    line-height: 140%;
+    margin-top: 10px;
+    width: 749px;
+}
+
+#LinkButtonDetails
+{
+    margin-left:10px;
+    
+}
+
+#FormViewDetailBrouwer 
+{
+    display:inline;
+    margin-left:20px;
+    
+}
